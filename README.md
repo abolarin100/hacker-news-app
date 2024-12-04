@@ -29,7 +29,7 @@ This is a React Native application designed to provide a user-friendly interface
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/hacker-news-app.git
+git clone https://github.com/abolarin100/hacker-news-app.git
 cd hacker-news-app
 ```
 
